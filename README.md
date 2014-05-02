@@ -1,4 +1,2 @@
-Xterm
+Xterm / IOXterm
 =====
-
-Xterm
