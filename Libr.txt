@@ -51,4 +51,11 @@ Syntax: editor
 Optional Syntax: editor@command
 Syntax commands: sysconf,ipconf
 
+###MATH###
+
+Command: sqrt
+Syntax: sqrt:9
+Output:
+2.8284271247461903
+
 ¹Output will display your own info, including IPs. This is a censored output for safety.
